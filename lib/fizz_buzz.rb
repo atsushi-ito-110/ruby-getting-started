@@ -9,7 +9,3 @@ def fizz_buzz(n)
     n.to_s
   end
 end
-
-for n in 1..30 do
-  puts fizz_buzz(n)
-end
