@@ -1,0 +1,1 @@
+var search_data = {"index":{"searchIndex":["gate","enter()","exit()","new()"],"longSearchIndex":["gate","gate#enter()","gate#exit()","gate::new()"],"info":[["Gate","","Gate.html","",""],["enter","Gate","Gate.html#method-i-enter","(ticket)",""],["exit","Gate","Gate.html#method-i-exit","(ticket)",""],["new","Gate","Gate.html#method-c-new","(name)",""]]}}
